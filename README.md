@@ -54,7 +54,7 @@ Carrinho = `\e901`
 
 Inicio = `\e902`
 
-Integrantes = `\e903`
+Integrantes = `c`
 
 Menu = `\e904`
 
